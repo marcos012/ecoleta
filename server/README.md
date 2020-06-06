@@ -59,16 +59,16 @@
 ### [POST] Cadastrar ponto de coleta
 `/points`
 
-body:
+FORM DATA:
 ```
-{
-    "name": "nome",
-    "email": "mail@mail.com", 
-    "whatsapp": "whatsapp", 
-    "latitude": latitude, 
-    "longitude": longitude, 
-    "city": "cidade",
-    "uf": "UF", 
-    "items": [1, 2, 3, 4, 5, 6]
-}
+name: "nome",
+email": "mail@mail.com", 
+whatsapp: "whatsapp", 
+latitude: latitude, 
+longitude: longitude, 
+city: "cidade",
+uf: "UF", 
+items: 1,2,3,4,5,6
+image: selecionar tipo do campo para file
+
 ```
