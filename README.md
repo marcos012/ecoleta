@@ -17,20 +17,18 @@ Lecionado por: Mestre [Diego Fernandes](https://github.com/diego3g)
 
 - [typescript](https://github.com/Microsoft/TypeScript)
 - [React](https://github.com/facebook/react)
-- [React Native](https://github.com/facebook/react-native) = {
-    [Expo](https://expo.io/)
-  }
-- [NodeJS](https://nodejs.org/en/) = {
-    [Knex.js](http://knexjs.org/),
-    [sqlite3](https://www.sqlite.org/index.html),
-    [Express](https://expressjs.com/pt-br/)
-  }
+- [React Native](https://github.com/facebook/react-native)
+- [Expo](https://expo.io/)
+- [NodeJS](https://nodejs.org/en/)
+- [Knex.js](http://knexjs.org/),
+- [sqlite3](https://www.sqlite.org/index.html),
+- [Express](https://expressjs.com/pt-br/)
   
 ## Iniciar aplicação
 **Pré-requisitos:** <br>
 
-[Node/NPM](https://nodejs.org/en/) <br>
-[Expo](https://expo.io/) instalado globalmente
+- [Node/NPM](https://nodejs.org/en/) <br>
+- [Expo](https://expo.io/) instalado globalmente
 <br>
 
 **Backend:**
