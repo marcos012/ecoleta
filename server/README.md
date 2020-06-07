@@ -12,8 +12,8 @@
         "name": "nome",
         "email": "mail@gmail.com",
         "whatsapp": "numero do ponto",
-        "latitude": latitude do ponto,
-        "longitude": longitude do ponto,
+        "latitude": -1234,
+        "longitude": 1234,
         "city": "cidade do ponto",
         "uf": "uf do ponto"
     },
@@ -32,8 +32,8 @@
         "name": "nome",
         "email": "email@email.com",
         "whatsapp": "whatsapp",
-        "latitude": latitude,
-        "longitude": longitude,
+        "latitude": 1234,
+        "longitude": -1233,
         "city": "cidade",
         "uf": "UF"
     },
@@ -63,7 +63,9 @@
 ```
 
 ### [POST] Cadastrar ponto de coleta
-`/points`
+```
+/points
+```
 
 FORM DATA:
 ```JSON
