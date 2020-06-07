@@ -20,8 +20,8 @@ Lecionado por: Mestre [Diego Fernandes](https://github.com/diego3g)
 - [React Native](https://github.com/facebook/react-native)
 - [Expo](https://expo.io/)
 - [NodeJS](https://nodejs.org/en/)
-- [Knex.js](http://knexjs.org/),
-- [sqlite3](https://www.sqlite.org/index.html),
+- [Knex.js](http://knexjs.org/)
+- [sqlite3](https://www.sqlite.org/index.html)
 - [Express](https://expressjs.com/pt-br/)
   
 ## Iniciar aplicação
