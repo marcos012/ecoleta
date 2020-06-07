@@ -1,8 +1,10 @@
 ## Rotas da api
 
 ### [GET] Buscar pontos de coleta
-`/points?city={city}&uf={uf}&items=1,2`
 ```
+/points?city={city}&uf={uf}&items=1,2
+```
+```JSON
 [
     {
         "id": 1,
@@ -19,8 +21,10 @@
 ```
 
 ### [GET] Buscar ponto de coleta especifico
-`/points/:id`
 ```
+/points/:id
+```
+```JSON
 {
     "point": {
         "id": 2,
@@ -45,8 +49,10 @@
 ```
 
 ### [GET] Buscar itens de coleta
-`/items`
 ```
+/items
+```
+```JSON
 [
      {
         "id": 1,
@@ -60,7 +66,7 @@
 `/points`
 
 FORM DATA:
-```
+```JSON
 name: "nome",
 email": "mail@mail.com", 
 whatsapp: "whatsapp", 
